@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@sendgrid/mail": "^7.4.4",
+    "deta": "0.0.10",
     "express": "^4.17.1",
     "multer": "^1.4.2"
   }
